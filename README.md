@@ -17,7 +17,7 @@
 
 ## 🌌 **Sobre Mim**
 <p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="350px">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%">
 </p>
 
 - 💻 **Backend Developer**, apaixonado por criar sistemas robustos e escaláveis.  
@@ -64,7 +64,6 @@
 ## 📊 **Estatísticas do GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renato-Cesarr&show_icons=true&theme=tokyonight" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Cesarr&theme=tokyonight" width="450px">
 </p>
 
 ---
