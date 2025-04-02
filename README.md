@@ -17,7 +17,7 @@
 
 ## 🌌 **Sobre Mim**
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%">
+  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFkZTRzNW9hNnFhb3U4YnVpbXR5eHoxdXVvNDFoZTU1ZThoaTZwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif)" width="100%">
 </p>
 
 - 💻 **Backend Developer**, apaixonado por criar sistemas robustos e escaláveis.  
