@@ -4,9 +4,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50px">
   Bem-vindo ao meu universo, Dev!
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50px">
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👾 **Quem Sou Eu?**
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="100%">
 </p>
 
 ```yaml
@@ -90,5 +90,9 @@ specialties:
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
+</p>
 
 🌟 **Se curtiu meu perfil, me chama no LinkedIn ou dá uma olhada nos meus repositórios!** 🚀🔥
